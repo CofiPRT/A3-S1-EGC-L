@@ -1,0 +1,30 @@
+Keybinds:
+
+	Box1:
+		W - move neg Z
+		A - move neg X
+		S - move pos Z
+		D - move pos X
+		R - move pos Y
+		F - move neg Y
+
+	Box2:
+		1 - scale up
+		2 - scale down
+
+	Box3:
+		3 - rotate pos X
+		4 - rotate neg X
+		5 - rotate pos Y
+		6 - rotate neg Y
+		7 - rotate pos Z
+		8 - rotate neg Z
+
+[BONUS 1]
+	Box1 se poate misca
+	Box2 se invarte in jurul lui Box1
+	Box3 se invarte in jurul lui Box2
+
+[BONUS 2]
+	Deasupra originii este un tetraedru cu 4 fete
+	de culori diferite, randate cu VertexColor

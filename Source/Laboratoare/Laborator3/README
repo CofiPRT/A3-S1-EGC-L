@@ -1,0 +1,11 @@
+BONUS:
+	Patratul alb poate sari pe o traiectorie parabolica
+
+	In Laborator3.h se gasesc constante:
+		LEAP_DURATION - cat timp sa dureze saritura
+		LEAP_DISTANCE - distanta pe OX a sariturii
+		LEAP_HEIGHT - distanta pe OY atinsa la mijlocul sariturii
+
+	Instructiuni:
+		SPACE pentru a sari
+		R in orice moment de timp pentru a reseta patratul

@@ -1,0 +1,28 @@
+Instructiuni:
+	Culoarea fundalului (Clear color) poate fi
+	schimbata prin apasarea tastelor
+		'[' si ']'
+	Se va cicla prin culorile
+		NEGRU, ROSU, ALBASTRU, VERDE
+
+	Miscarea caracterului se face intuitiv
+	dupa pozitia initiala a camerei. (Asta nu inseamna
+	ca se misca in functie de camera, ci doar ca
+	deplasarea pe axe corespunde cu pozitia lor
+	initiala - pentru a nu exista ambiguitate daca acesta
+	este singurul lucru care se doreste a fi testat)
+	Astfel, presupunand ca nu se misca camera:
+		'W' - neg Z - FATA
+		'A' - neg X - STANGA
+		'S' - pos Z - SPATE
+		'D' - pos X - DREAPTA
+		'E' - pos Y - SUS
+		'Q' - neg Y - JOS
+	Caracterul nu se poate misca daca intr-un moment
+	se misca si camera (se tine apasat RIGHT_CLICK)
+
+	Obiectul care se roteste in jurul caracterului
+	poate fi schimbat prin apasarea tastelor
+		',' si '.'
+	Se va cicla prin obiectele
+		BOX, TEAPOT, SPHERE

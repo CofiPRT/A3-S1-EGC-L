@@ -1,0 +1,14 @@
+In pozitia initiala a camerei
+
+	* Cubul incarcat cu buffere este in partea dreapta
+
+	* Tetraedrul este sus
+
+	* Patratul cu un singur triunghi vizibil este in fata
+		camerei, la y = 0, in spatele cubului cu fete
+		colorate complet
+
+	* Cercul este sub camera, la y = 0
+		Se poate ajusta numarul de poligoane ale cercului
+		cu ajutorul tastelor
+		'[' si ']'

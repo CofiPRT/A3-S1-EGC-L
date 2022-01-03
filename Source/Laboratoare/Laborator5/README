@@ -1,0 +1,22 @@
+Instructiuni:
+
+	Tipul camerei:
+		T - Toggle First Person / Third Person Camera
+	
+	Mod proiectie:
+		O - Proiectie ortografica
+		P - Proiecte perspectiva
+
+	Setari proiectie ortografica:
+		Sageti:
+			SUS 	- 	Inaltime+
+			JOS 	- 	Inaltime-
+			DREAPTA - 	Latime+
+			STANGA 	- 	Latime-
+
+	Setari proiectie perspectiva:
+		']' 	- 	FOV+
+		'[' 	- 	FOV-
+
+	Camera:
+		SHIFT (HOLD) - Miscare rapida
